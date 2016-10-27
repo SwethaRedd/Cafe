@@ -8,6 +8,9 @@
 
 
    }
+element.style {
+    color: aliceblue;
+}
 body
 {
     background-image: url("images/coffee.jpeg");
